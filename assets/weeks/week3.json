@@ -1,67 +1,22 @@
 {
 	"songs": [
-		[
-			"Philly-Nice",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Blammed",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Satin-Panties",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"High",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Milf",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		]
+		["Pico", "pico", [148, 22, 83]],
+		["Philly Nice", "pico", [148, 22, 83]],
+		["Blammed", "pico", [148, 22, 83]]
 	],
+
 	"weekCharacters": [
-		"dad",
+		"pico",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-	"weekBefore": "tutorial",
-	"storyName": "Your New Week",
-	"weekName": "Custom Week",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
+	"weekBackground": "philly",
+
+	"storyName": "PICO",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
 	"startUnlocked": true,
+
 	"hideStoryMode": false,
-	"hideFreeplay": false,
-	"difficulties": ""
+	"hideFreeplay": false
 }
