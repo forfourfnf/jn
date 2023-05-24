@@ -5813,7 +5813,7 @@
 		"allowPet": true,
 		"stage": "limo",
 		"validScore": true,
-		"needsVoices": false,
+		"needsVoices": true,
 		"bpm": 180,
 		"speed": 3
 	}
