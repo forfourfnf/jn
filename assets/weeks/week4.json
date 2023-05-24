@@ -1,22 +1,49 @@
 {
 	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+		[
+			"Cocoa",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Eggnog",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Winter-Horrorland",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-	
 	"weekCharacters": [
-		"mom",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": false,
+	"difficulties": ""
 }
