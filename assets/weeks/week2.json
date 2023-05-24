@@ -1,17 +1,16 @@
 {
 	"songs": [
-		["Spookeez", "dad", [34, 51, 68]],
-		["South", "dad", [34, 51, 68]],
-		["Monster", "dad", [34, 51, 68]]
-		["Pico", "dad", [148, 22, 83]],
+		["Spookeez", "spooky", [34, 51, 68]],
+		["South", "spooky", [34, 51, 68]],
+		["Monster", "monster", [34, 51, 68]]
 	],
 
 	"weekCharacters": [
-		"mom",
+		"spooky",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
+	"weekBackground": "halloween",
 
 	"storyName": "Spooky Month",
 	"weekBefore": "week1",

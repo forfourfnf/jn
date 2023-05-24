@@ -1,20 +1,20 @@
 {
 	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+		["Satin Panties", "mom", [252, 150, 215]],
+		["High", "mom", [252, 150, 215]],
+		["Milf", "mom", [252, 150, 215]]
 	],
-
+	
 	"weekCharacters": [
-		"parents-christmas",
+		"mom",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "christmas",
+	"weekBackground": "limo",
 
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
+	"storyName": "MOMMY MUST MURDER",
+	"weekBefore": "week3",
+	"weekName": "Week 4",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
