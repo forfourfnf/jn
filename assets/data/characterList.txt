@@ -19,3 +19,11 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+alien
+amongbf
+attack
+bf
+bf_turb
+bfairship
+bf-car
+bf-defeat-dead
