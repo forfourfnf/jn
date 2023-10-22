@@ -4392,7 +4392,6 @@
 		"gfVersion": "gf-car",
 		"events": [],
 		"player3": "gf-car",
-		"allowGFskin": true,
 		"song": "Fresh",
 		"validScore": true,
 		"needsVoices": true,

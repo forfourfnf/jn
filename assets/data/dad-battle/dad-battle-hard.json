@@ -7050,9 +7050,7 @@
 				"mustHitSection": true
 			}
 		],
-		"allowBFskin": true,
 		"player3": "gf-car",
-		"allowGFskin": true,
 		"song": "Dad Battle",
 		"stage": "stage",
 		"needsVoices": true,
