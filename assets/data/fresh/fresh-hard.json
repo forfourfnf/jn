@@ -4387,31 +4387,13 @@
 				"bpm": 170,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 170,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 170,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gf-car",
 		"events": [],
-		"player3": "gf",
+		"player3": "gf-car",
 		"allowGFskin": true,
-		"song": "fresh",
+		"song": "Fresh",
 		"validScore": true,
 		"needsVoices": true,
 		"stage": "stage",

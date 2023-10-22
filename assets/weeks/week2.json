@@ -1,19 +1,20 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["Sussus Toogus", "crewmate", [255, 51, 51]],
+		["Lights Down", "impostor3", [255, 51, 51]],
+		["Reactor", "impostor3", [255, 51, 51]],
+		["Ejected", "parasite", [255, 51, 51]]
 	],
 
 	"weekCharacters": [
-		"spooky",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
+	"weekBackground": "",
 
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
+	"storyName": "Mira Mania",
+	"weekBefore": "",
 	"weekName": "Week 2",
 	"startUnlocked": true,
 

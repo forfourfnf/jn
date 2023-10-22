@@ -1,9 +1,8 @@
-# When the impostor is sus
+# FnF-Psych-Engine-0.5.1-HTML
+Thx to ඞKarv Dev: https://www.youtube.com/watch?v=SNeYvTQrHko&amp;t=1s <br>
+Play Here: https://sushi8756.github.io/FnF-Psych-Engine-0.5.1-HTML/
+<br>
+IF ANYBODY KNOWS HOW TO PORT (preferably psych engine) FNF MODS PLEASE TELL ME! (do it on the issues pls) :)
 
-V3
-
-https://forfourfnf.github.io/a/impostor/impostor-v3
-
-V4
-
-https://forfourfnf.github.io/a/impostor/Impostor-v2
+Editor's note:
+This is Family Friendly for anyone who wants to play the game wtih no sus stuff

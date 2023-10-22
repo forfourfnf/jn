@@ -1,9 +1,9 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bf-car",
 		"events": [],
-		"gfVersion": "gf",
-		"player2": "dad",
+		"gfVersion": "gf-car",
+		"player2": "parents-christmas",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -7048,21 +7048,12 @@
 				"bpm": 120,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 120,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
 		"allowBFskin": true,
-		"player3": "gf",
+		"player3": "gf-car",
 		"allowGFskin": true,
-		"song": "dad-battle",
+		"song": "Dad Battle",
 		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,

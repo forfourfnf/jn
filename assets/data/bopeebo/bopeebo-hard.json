@@ -28189,15 +28189,6 @@
 				"bpm": 150,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 150,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
 		"gfVersion": "gf",
@@ -28211,7 +28202,7 @@
 			}
 		],
 		"chartVersion": "2",
-		"song": "bopeebo",
+		"song": "Bopeebo",
 		"validScore": true,
 		"stage": "stage",
 		"needsVoices": true,
