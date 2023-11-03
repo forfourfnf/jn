@@ -1,9 +1,9 @@
 {
 	"songs": [
-		["Sussus Toogus", "crewmate", [255, 51, 51]],
-		["Lights Down", "impostor3", [255, 51, 51]],
-		["Reactor", "impostor3", [255, 51, 51]],
-		["Ejected", "parasite", [255, 51, 51]]
+		["Spookeez", "spooky", [255, 51, 51]],
+		["South", "pico", [255, 51, 51]],
+		["Monster", "pico", [255, 51, 51]],
+		["Pico", "monster", [255, 51, 51]]
 	],
 
 	"weekCharacters": [

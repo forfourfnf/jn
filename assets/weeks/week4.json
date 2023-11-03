@@ -11,7 +11,7 @@
 	],
 	"songs": [
 		[
-			"Defeat",
+			"Cocoa",
 			"black",
 			[
 				255,
@@ -20,16 +20,7 @@
 			]
 		],
 		[
-			"finale",
-			"black",
-			[
-				255,
-				51,
-				51
-			]
-		],
-		[
-			"identity crisis",
+			"Eggnog",
 			"monotone",
 			[
 				255,
@@ -37,7 +28,16 @@
 				51
 			]
 		]
+			[
+			"Winter Horrorland",
+			"black",
+			[
+				255,
+				51,
+				51
+			]
+		],
 	],
 	"hideStoryMode": false,
-	"weekName": "..."
+	"weekName": "week4"
 }
