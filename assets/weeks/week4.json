@@ -1,43 +1,49 @@
 {
-	"storyName": "Defeat",
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"weekBefore": "",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
 			"Cocoa",
 			"tankman",
 			[
-				255,
-				51,
-				51
+				40,
+				40,
+				40
 			]
 		],
 		[
 			"Eggnog",
 			"gf",
 			[
-				255,
-				51,
-				51
+				40,
+				40,
+				53
 			]
 		],
 		[
 			"Winter Horrorland",
 			"tankman",
 			[
-				255,
-				51,
-				51
+				0,
+				0,
+				0
 			]
 		]
 	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"storyName": "Defeat",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
 	"hideStoryMode": false,
-	"weekName": "Week 4"
+	"hideFreeplay": false,
+	"difficulties": ""
 }
