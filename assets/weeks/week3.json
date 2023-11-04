@@ -12,16 +12,16 @@
 	"songs": [
 		[
 			"Philly Nice",
-			"yellow",
+			"senpai-pixel",
 			[
 				255,
 				51,
 				51
 			]
 		],
-		[
+			[
 			"Blammed",
-			"yellow",
+			"senpai-pixel",
 			[
 				255,
 				51,
@@ -30,7 +30,7 @@
 		],
 		[
 			"Satin Panties",
-			"white",
+			"mom",
 			[
 				255,
 				51,
@@ -39,17 +39,16 @@
 		],
 		[
 			"High",
-			"black",
+			"tankman",
 			[
 				255,
 				51,
 				51
 			]
 		]
-	],
 			[
-			"MILF",
-			"black",
+			"Milf",
+			"tankman",
 			[
 				255,
 				51,
@@ -58,5 +57,5 @@
 		]
 	],
 	"hideStoryMode": false,
-	"weekName": "week3"
+	"weekName": "Week 3"
 }
