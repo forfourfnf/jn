@@ -3,120 +3,109 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				59,
+				-278
 			],
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
+			"fps": 24,
+			"name": "impostor idle",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				65,
-				9
+				59,
+				-294
 			],
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico Note Right0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-68,
-				-7
-			],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
+			"fps": 24,
+			"name": "impostor right",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-60,
-				41
+				106,
+				-303
 			],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				62,
-				64
-			],
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Pico Note Right Miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				200,
-				-70
-			],
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Pico Down Note0"
+			"fps": 24,
+			"name": "impostor down",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				210,
-				-28
+				249,
+				-288
 			],
+			"anim": "singLEFT",
 			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "Pico Down Note MISS"
+			"name": "imposter left",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-19,
-				67
+				161,
+				-161
 			],
+			"anim": "singUP",
 			"fps": 24,
-			"anim": "singUPmiss",
+			"name": "impostor up2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				61,
+				-278
+			],
 			"indices": [],
-			"name": "pico Up note miss"
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "impostor dance left"
+		},
+		{
+			"offsets": [
+				57,
+				-278
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "impostor dance right"
+		},
+		{
+			"offsets": [
+				352,
+				-174
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "liveReaction",
+			"loop": false,
+			"name": "bwomp"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Pico_FNF_assetss",
 	"position": [
 		0,
-		300
+		80
 	],
 	"healthicon": "pico",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		31,
+		107,
+		43
 	],
 	"camera_position": [
-		0,
-		0
+		-100,
+		290
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

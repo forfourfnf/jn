@@ -1,22 +1,12 @@
 {
-	"storyName": "Polus Problems",
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"weekBefore": "Tutorial",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
 			"Bopeebo",
 			"dad",
 			[
 				255,
-				51,
-				51
+				0,
+				0
 			]
 		],
 		[
@@ -24,20 +14,36 @@
 			"dad",
 			[
 				255,
-				51,
-				51
+				0,
+				0
 			]
 		],
 		[
 			"Dad Battle",
 			"parents",
 			[
-				255,
-				51,
-				51
+				206,
+				0,
+				0
 			]
 		]
 	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"storyName": "Polus Problems",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
 	"hideStoryMode": false,
-	"weekName": "Week 1"
+	"hideFreeplay": false,
+	"difficulties": "Hard"
 }

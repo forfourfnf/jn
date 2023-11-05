@@ -1,8 +1,35 @@
-# FnF-Psych-Engine-0.5.1-HTML
-Thx to ඞKarv Dev: https://www.youtube.com/watch?v=SNeYvTQrHko&amp;t=1s <br>
-Play Here: https://sushi8756.github.io/FnF-Psych-Engine-0.5.1-HTML/
-<br>
-IF ANYBODY KNOWS HOW TO PORT (preferably psych engine) FNF MODS PLEASE TELL ME! (do it on the issues pls) :)
+# Friday Night Funkin': Impostor V4 Part 1
 
-Editor's note:
-This is Family Friendly for anyone who wants to play the game wtih no sus stuff
+https://forfourfnf.github.io/sus/
+
+# Song List
+
+Bopeebo - Sussus Moogus
+
+Fresh - Sabotage
+
+Dad Battle - Meltdown
+
+Spookeez - Sussus Toogus
+
+South - Lights Down
+
+Monster - Reactor
+
+Pico - Ejected
+
+Philly Nice - Mando
+
+Blammed - D'low
+
+Satin Panties - Oversight
+
+High - Danger
+
+Mom - Double Kill
+
+Cocoa - Defeat
+
+Eggnog - Identity Crisis
+
+Winter Horrorland - Finale

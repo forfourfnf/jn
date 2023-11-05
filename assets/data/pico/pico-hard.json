@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bf-christmas",
 		"player2": "monster",
 		"notes": [
 			{
@@ -9081,28 +9081,19 @@
 				"bpm": 155,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 155,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gf-christmas",
 		"events": [],
 		"allowBFskin": true,
-		"player3": "gf",
+		"player3": "gf-christmas",
 		"allowGFskin": true,
-		"song": "pico",
+		"song": "Pico",
 		"arrowSkin": "",
 		"allowPet": true,
 		"validScore": true,
 		"needsVoices": true,
-		"stage": "stage",
+		"stage": "limo",
 		"speed": 3.2,
 		"bpm": 155
 	}

@@ -31537,18 +31537,9 @@
 				"bpm": 170,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 170,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
-		"player2": "mom",
+		"player2": "pico",
 		"chartVersion": "2",
 		"eventObjects": [
 			{
@@ -31559,7 +31550,7 @@
 			}
 		],
 		"player3": "gf",
-		"song": "south",
+		"song": "South",
 		"needsVoices": true,
 		"stage": "stage",
 		"validScore": true,
