@@ -4458,20 +4458,11 @@
 				"bpm": 140,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 140,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
 		"player2": "mom",
 		"player3": "gf",
-		"song": "satin-panties",
+		"song": "Satin Panties",
 		"stage": "philly",
 		"validScore": true,
 		"needsVoices": true,
