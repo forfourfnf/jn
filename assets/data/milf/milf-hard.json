@@ -3984,6 +3984,13 @@
 						82650,
 						5,
 						0
+					],
+					[
+						82794.375,
+						-1,
+						"Both Opponents",
+						"0",
+						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -18666,21 +18673,12 @@
 				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
-		"player2": "dad",
+		"player2": "mom",
 		"player3": "gf",
-		"player4": "mom",
-		"song": "milf",
+		"player4": "mom-car",
+		"song": "Milf",
 		"needsVoices": true,
 		"validScore": true,
 		"arrowSkin": "",
