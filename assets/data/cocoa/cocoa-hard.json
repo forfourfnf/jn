@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf",
-		"player2": "pico",
+		"player1": "bf-pixel",
+		"player2": "mom-car",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -12221,22 +12221,13 @@
 				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
 		"gfVersion": "gf",
 		"events": [],
 		"allowBFskin": true,
 		"player3": "gf",
-		"song": "cocoa",
+		"song": "Cocoa",
 		"needsVoices": true,
 		"stage": "stage",
 		"arrowSkin": "",

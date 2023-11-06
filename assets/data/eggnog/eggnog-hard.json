@@ -9496,21 +9496,12 @@
 				"bpm": 173,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"bpm": 173,
-				"changeBPM": false,
-				"mustHitSection": true,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"altAnim": false
 			}
 		],
 		"player2": "bf",
 		"player3": "gf",
 		"initialSpeed": 1.215,
-		"song": "eggnog",
+		"song": "Eggnog",
 		"validScore": true,
 		"allowPet": true,
 		"arrowSkin": "",
